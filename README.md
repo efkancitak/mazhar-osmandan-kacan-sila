@@ -4,4 +4,4 @@
 
 `index.html` dosyasını tarayıcıda açarak çalışabilir, yanıtları gizleyebilir ve yanlışlarını tekrar edebilirsin. İlerleme ve notlar kullandığın tarayıcıda saklanır.
 
-[Girişsiz çalışma sayfası](https://psikiyatri-cikmislar-v7km.efkancitak.chatgpt.site/)
+[Girişsiz çalışma sayfası](https://efkancitak.github.io/mazhar-osmandan-kacan-sila/)
